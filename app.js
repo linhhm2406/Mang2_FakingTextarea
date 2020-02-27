@@ -1,4 +1,4 @@
-let array = 'Try your best to type matching your m';
+let array = 'Ê Hươn bếu, gõ cái gì đấy :)))))';
 let new_content_array;
 
 function change_content() {
