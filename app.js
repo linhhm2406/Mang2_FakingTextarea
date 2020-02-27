@@ -1,4 +1,4 @@
-let array = 'Ê Hươn bếu, gõ cái gì đấy :)))';
+let array = 'Try your best to type matching your m';
 let new_content_array;
 
 function change_content() {
@@ -12,5 +12,5 @@ function change_content() {
     }
     document.getElementById('content').value = new_content_array;
     new_content_array='';
-    setTimeout("change_content()", 1)
+    setTimeout("change_content()", 100)
 }
